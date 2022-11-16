@@ -2,13 +2,13 @@
     <string name="app_name">ExamProject</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="sor_u_g_nd_r">Sorğu göndər</string>
-    <string name="z_ng_et">Zəng et</string>
-    <string name="siqaret_kilm_sin_y_k_olaraq_ortaboylu_amadan_m_var">Siqaret çəkilməsin, yük olaraq ortaboylu çamadanım var</string>
-    <string name="qeydl_r">Qeydlər</string>
-    <string name="t_rketm_aral">Tərketmə aralığı</string>
-    <string name="_14_00_15_00">14:00 - 15:00</string>
-    <string name="s_rni_in">Sərnişin</string>
-    <string name="zaur_kamalov">Zaur Kamalov</string>
-    <string name="ki_k_rd_mir">Şəki - Kürdəmir</string>
+    <string name="sorgu_gonder">Sorğu göndər</string>
+    <string name="zeng_et">Zəng et</string>
+    <string name="siqaret">Siqaret çəkilməsin, yük olaraq ortaboylu çamadanım var</string>
+    <string name="qeydler">Qeydlər</string>
+    <string name="terketme">Tərketmə aralığı</string>
+    <string name="h_14_15">14:00 - 15:00</string>
+    <string name="sernisin">Sərnişin</string>
+    <string name="zaur">Zaur Kamalov</string>
+    <string name="kurdemir">Şəki - Kürdəmir</string>
 </resources>
