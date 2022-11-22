@@ -14,12 +14,10 @@ class MainActivity : AppCompatActivity() {
             .add(R.id.fragmentContainerView, Fragment())
         travel.commit()
 
-        Handler(Looper.getMainLooper()).postDelayed(object : Runnable {
-            override fun run() {
-               travel = supportFragmentManager.beginTransaction()
-                travel.replace(R.id.fragmentContainerView,PassengerFragment())
-                travel.commit()
-            }
+        Handler(Looper.getMainLooper()).postDelayed({
+            travel = supportFragmentManager.beginTransaction()
+            travel.replace(R.id.fragmentContainerView,PassengerFragment())
+            travel.commit()
         }, 3000)
     }
 }
